@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+}
+
+#marcoCuerpo{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+#title{
+    margin-bottom: 30px;
+}
+#noticia{
+   
+    width: 30%;
+}
+#foto{
+    
+    width: 50%;
+}
+#autor{
+    text-align: left;
+    margin-top: 10px;
+}
+hr{
+    width: 80%;
+}
+img{
+    width: 400px;
+    height: 400px;
+}
+button{
+    margin-top: 20px;
+}

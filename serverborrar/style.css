@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+}
+
+#marco{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+#foto{
+    
+    width: 50%;
+}
+
+hr{
+    width: 80%;
+}
+img{
+    width: 400px;
+    height: 400px;
+}
+button{
+    margin-top: 20px;
+}
+
+table{
+    border-style: solid;
+    border-color: black;
+}
+td,th{
+    border-style: solid;
+    border-color: black;
+    width: 50%;
+}
+td{
+    background-color: bisque;
+}
+#separador{
+    border-style: none;
+}
+#boton{
+  margin-bottom: 5%;
+}
